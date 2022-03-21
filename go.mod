@@ -1,3 +1,3 @@
-module go-web-hello-world
+module myapp
 
 go 1.18
